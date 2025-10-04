@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "name": "Iphone 6",
+      "price": 1500,
+      "id": "9120"
+    },
+    {
+      "id": "7045",
+      "name": "Iphone 12",
+      "price": 5000
+    },
+    {
+      "id": "f46b",
+      "name": "Iphone 13",
+      "price": 10000
+    },
+    {
+      "id": "77e4",
+      "name": "Iphone 14",
+      "price": 15000
+    },
+    {
+      "id": "5f66",
+      "name": "Iphone 15",
+      "price": 20000
+    }
+  ]
+}
